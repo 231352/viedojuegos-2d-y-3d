@@ -1,0 +1,4 @@
+# Godot 4+ specific ignores
+.godot/
+/android/
+/Yuukas_Mansion_Referencia_Eventos.pdf
